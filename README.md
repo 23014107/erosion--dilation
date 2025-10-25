@@ -18,10 +18,10 @@ create the text using cv2.put Text
 ### Step3:
 <br>create the structuting element
 
-### Step4:
+# Step4:
 <br>
 Erodde the image
-### Step5:
+# Step5:
 <br>
 Dilate the image
  
